@@ -1,7 +1,7 @@
 import React from 'react'
 import {RouteComponentProps} from "@reach/router"
 
-const AppIndex = () => {
+const AppIndex = (props: RouteComponentProps) => {
   return (
 	<div>AppIndex</div>
   )
