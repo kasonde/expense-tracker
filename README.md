@@ -33,18 +33,19 @@ yarn run test
 
 👤 **Richard Nsama**
 
-* Website: kasonde.me
-* Twitter: [@rknsama](https://twitter.com/rknsama)
-* Github: [@kasonde](https://github.com/kasonde)
-* LinkedIn: [@richard.nsama](https://linkedin.com/in/richard.nsama)
+- Website: kasonde.me
+- Twitter: [@rknsama](https://twitter.com/rknsama)
+- Github: [@kasonde](https://github.com/kasonde)
+- LinkedIn: [@richard.nsama](https://linkedin.com/in/richard-kasonde-nsama-534906a1)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kasonde/expense-tracker/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kasonde/expense-tracker/issues).
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
