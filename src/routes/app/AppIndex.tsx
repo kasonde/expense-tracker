@@ -1,10 +1,9 @@
 import React from "react";
-import { RouteComponentProps } from "@reach/router";
 import TransactionCard from "../../components/home/TransactionCard";
 import { FaCog, FaPlus } from "react-icons/fa";
-import { Link } from "@reach/router";
+import { Link } from "react-router-dom";
 
-const AppIndex = (props: RouteComponentProps) => {
+const AppIndex = () => {
   return (
     <div>
       <div className="container px-2 pt-2 flex flex-row justify-end gap-2">

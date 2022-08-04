@@ -1,7 +1,6 @@
-import { RouteComponentProps } from "@reach/router";
 import React from "react";
 
-const Transaction = (props: RouteComponentProps) => {
+const Transaction = () => {
   return <div>Transaction</div>;
 };
 
